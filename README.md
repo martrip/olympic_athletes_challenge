@@ -28,7 +28,8 @@ The provided data was scraped from www.sports-reference.com in May 2018 and cont
 - Explore Predictions
 
 ## Results
-
+It was possible to correctly predict most people who did not win a medal and almost 40% who won a gold medal. Moreover, the countries that won the most medals in the actual data were also the ones that were predicted to win medals most often.
+However, many fewer medals were won in the predicted data and it was very difficult to correctly predict silver and bronze medals.
 
 ## Outlook
 - Up / down sampling
