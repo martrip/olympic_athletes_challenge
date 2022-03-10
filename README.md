@@ -1,4 +1,4 @@
-# Olympic Athletes Data Challange
+# Olympic Athletes Data Challenge
 
 ## Background and Task
 During the two-day Data Challenge, the goal was to predict who will win the Olympics. This was done using a historical dataset of the modern Olympic Games, covering all games from Athens 1896 to Rio 2016.
